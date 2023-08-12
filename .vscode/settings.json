@@ -6,5 +6,9 @@
     "python.formatting.provider": "none",
     "rust-analyzer.linkedProjects": [
         "/Users/ruimac/workspace/Leet_code_db/Rust-env/Cargo.toml"
-    ]
+    ],
+    "[rust]": {
+        "editor.defaultFormatter": "rust-lang.rust-analyzer",
+        "editor.formatOnSave": true
+    },
 }
